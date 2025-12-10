@@ -24,3 +24,16 @@ git pull origin (가져와서 merge)
 *.확장명
 폴더명/
 
+branch
+작업에 대한 가지
+큰 줄기에 영향을 주지 않고 가지에서만 작업을 할 수 있음
+각 가지는 자체 커밋 및 변경을 가질 수 있음
+> main에 영향을 미치지 않고 여러 기능이나 버그 수정을 동시에 수행할 수 있음
+
+git status
+git branch
+
+애플 생성하고 이동 
+git checkout -b apple
+
+

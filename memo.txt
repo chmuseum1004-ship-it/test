@@ -12,3 +12,15 @@ git commit -m "test.py을 커밋"
 
 로그 확인하기
 git log
+
+원격 저장소에서 변경된 사항 가져오기 
+git fatch origin (가져오기만)
+git pull origin (가져와서 merge)
+
+.gitignore
+깃이 추적하지 않아야 할 파일을 지정하는 파일 
+예) 
+파일이름.확장명
+*.확장명
+폴더명/
+
